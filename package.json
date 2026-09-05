@@ -1,0 +1,12 @@
+{
+  "name": "nka-publications-store",
+  "version": "7.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node local.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2"
+  }
+}

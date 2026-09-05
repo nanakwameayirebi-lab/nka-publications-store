@@ -1,0 +1,10 @@
+NKA PUBLICATIONS STORE v7 — DOWNLOAD ONLY
+
+Vercel Environment Variables (Production):
+PAYSTACK_SECRET_KEY = your Paystack TEST/ LIVE secret key as appropriate
+SUPABASE_URL = your Supabase project URL
+SUPABASE_SERVICE_ROLE_KEY = your Supabase service role/secret key
+BASE_URL = your Vercel project URL
+
+No Resend API key is required. Customers download the ebook after verified payment.
+Keep the Supabase ebooks bucket PRIVATE.

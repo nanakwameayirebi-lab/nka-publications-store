@@ -1,0 +1,1 @@
+Upload this project to the SAME Vercel project. Do not create a new project. Keep the existing environment variables. Redeploy after uploading.
